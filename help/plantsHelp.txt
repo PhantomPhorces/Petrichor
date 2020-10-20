@@ -1,0 +1,6 @@
+The plants page allows you to explore the vast database of plants this program includes as well as read up on more information about the plants themselves.
+You can use the search bar at the top in order to search through the database of plants by typing in the name and clicking on the search bar. You can also browse all the plants 
+in the database without searching anything by either leaving the search bar blank or clearing the search bar using the x shaped button on the right of the search bar. This will 
+display all the plants. Each entry is accompanied by four numbers next to small icons. These small icons represent in the following order: temperature, 
+humidity, light(sunlight), and soil Moisture. These values are the ideal values for each factor that the plants should be kept at. You can add a plant to your own plants 
+(growth) by clicking on the name of the plant.

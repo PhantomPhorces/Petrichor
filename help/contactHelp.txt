@@ -1,0 +1,3 @@
+Welcome to the contact page. This page serves the purpose of allowing you to contact either the developers of the app to provide bug support or feature requests, or 
+to contact horticulturilists (proffesional gardeners) in order to provide help with your plants. Once you have sent the message they will get back to you using the 
+email address you provided when setting up the account.

@@ -1,0 +1,3 @@
+This page is made in order for you to edit your account's information should any information be out of date or you wish to change anything. If you don't wish for a value to be
+changed leave it exactly as you found it and nothing will be changed. Please ensure that no information entered contains the ' character and that your email is a valid email 
+address (with an @ and a domain name) and that the password and confirm password fields match each other.

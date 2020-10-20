@@ -1,0 +1,2 @@
+This is the home page. This page is here to help you understand all the basics of this program as well as the required setup needed to use it properly. 
+It also acts as the introduction to the application's goals and why it was made as well as act as a familiar face that you can always come back to every time you open the up Petri.

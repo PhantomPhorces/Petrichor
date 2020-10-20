@@ -1,0 +1,5 @@
+The growth page allows you to explore your personal list of plants you have added to your collection.You can use the search bar at the top in order to search through your 
+list of plants by typing in the name and clicking on the search button. You can also browse all the plants in your collection without searching anything by either leaving 
+the search bar blank or clearing the search bar using the x shaped button on the right of the search bar. This will display all the plants in your collection. Each entry is 
+accompanied by four numbers next to small icons. These small icons represent in the following order: temperature, humidity, light(sunlight), and soil Moisture. 
+These values are the ideal values for each factor that the plants should be kept at. You can remove a plant from your collection byclicking on the underlined name of it.

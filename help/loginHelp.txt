@@ -1,0 +1,1 @@
+This page allows you to enter your credentials in order to login to petrichor. If you haven't created an account please do so using the create user button near the bottom of the screen.

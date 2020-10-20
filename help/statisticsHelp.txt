@@ -1,0 +1,4 @@
+This is the statistics page. This page aims to give you a visual look into the current environment around your plant in order to compare them to the ideal scenario of the plants. 
+The buttons on the left allow you to switch between the statistics of: temperature, humidity, light, and moisture(soil moisture).The graph is shown in the middle of the page 
+and you can click and drag in order to zoom in as well as right click in order to zoom in a spexific axis(x or y) or let the graph auto range again in order to see the full set 
+of data again. It will also allow the option to save the graph as a picture on your computer (.png file).
